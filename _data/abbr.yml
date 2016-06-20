@@ -6,6 +6,7 @@ BEM: Block Element Modifier
 BSON: Binary Simple Object Model
 CSS: Cascading StyleSheets
 CSS3: Cascading StyleSheets
+CLI: Command Line Interface
 CORS: Cross Origin Resource sharing
 CPU: Central Processor Unit
 DOM: Document Object Model
@@ -25,6 +26,7 @@ MVVM: Model View ViewModel
 OO: Object Oriented
 REST: Representational State Transfer
 RESTful: Representational State Transfer
+rnpm: React Native Package Manager
 SVG: Scalable Vector Graphics
 TDD: Test Driven Development
 UI: User Interface
