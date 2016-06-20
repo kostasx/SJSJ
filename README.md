@@ -50,6 +50,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [AngularJS](/_glossary/ANGULARJS.md): a structural framework for dynamic web apps.
 * [Apache Cordova](/_glossary/APACHECORDOVA.md) (formerly **PhoneGap**): a popular mobile application development framework originally created by Nitobi.
 * [Arity](/_glossary/ARITY.md): the number of arguments of a function.
+* [Assertion Library](/_glossary/ASSERTION_LIBRARY.md): (to be edited...)
 
 ### B
 
